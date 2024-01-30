@@ -15,6 +15,7 @@ Visit the [Bulb On Off](https://journey2sde.github.io/Bulb-On-Off/) page to see 
 ## Screenshots
 
 ![Bulb On]
+
 ![Bulb Off]
 
 ## Getting Started
